@@ -11,4 +11,4 @@
     </Switch>
   </Router>
 ```
-###### **</Switch>** is used to restrict path if path is not find then only it will goto  **<Redirect to="/" />**  without swtich it will go to **<Redirect to="/" />** everytime .
+###### switch is used to restrict path if path is not find then only it will goto  **Redirect**  without swtich it will go to **Redirect** everytime .
