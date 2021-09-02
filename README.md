@@ -12,3 +12,7 @@
   </Router>
 ```
 ###### switch is used to restrict path if path is not find then only it will goto  **Redirect**  without swtich it will go to **Redirect** everytime .
+
+```javascript
+ <Link to={`/${props.id}/places`}>
+```    is from react-router-dom used for switching to new path
